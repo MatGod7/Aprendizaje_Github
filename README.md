@@ -12,4 +12,4 @@ This is a repository that I use to prove Github's things
 
 ## Este es un ejemplo para referenciar un Gist
 
-[aqui](<script src="https://gist.github.com/MatGod7/95df5a0e8caa108da700192966b8687b.js"></script>) se puede ver un ejemplo de código
+[aqui](https://gist.github.com/MatGod7/95df5a0e8caa108da700192966b8687b) se puede ver un ejemplo de mi código
